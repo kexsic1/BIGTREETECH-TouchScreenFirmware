@@ -87,7 +87,7 @@
 // LCD Encoder support
 #define LCD_ENCA_PIN  PA0
 #define LCD_ENCB_PIN  PA1
-//#define LCD_BTN_PIN   PB2
+#define LCD_BTN_PIN   PE6
 
 // U disk support
 //#define U_DISK_SUPPORT
