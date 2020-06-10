@@ -85,8 +85,8 @@
 #define BUZZER_PIN    PB2
 
 // LCD Encoder support
-//#define LCD_ENCA_PIN  PB0
-//#define LCD_ENCB_PIN  PB1
+#define LCD_ENCA_PIN  PA0
+#define LCD_ENCB_PIN  PA1
 //#define LCD_BTN_PIN   PB2
 
 // U disk support
