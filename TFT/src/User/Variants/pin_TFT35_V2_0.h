@@ -79,7 +79,7 @@
 #define W25Qxx_CS_PIN PA4
 
 // ST7920 Simulator SPI pins
-//#define ST7920_SPI    _SPI2
+#define ST7920_SPI    _SPI2
 
 // Buzzer support
 #define BUZZER_PIN    PB2
